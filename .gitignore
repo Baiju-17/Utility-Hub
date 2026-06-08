@@ -6,6 +6,4 @@ __pycache__/
 temp_convert.pdf
 output_hub.docx
 reports/
-apps/jarvis_assistant/assets/
-apps/jarvis_assistant/data/
-apps/jarvis_assistant/models/
+apps/jarvis_assistant/
